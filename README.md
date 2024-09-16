@@ -1,6 +1,7 @@
 # Simple Task Manager
 
 A command-line task management tool built with Python.
+Learning project from https://roadmap.sh/projects/task-tracker
 
 ## Features
 
